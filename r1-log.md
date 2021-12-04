@@ -41,3 +41,12 @@ I also play Spotify often and can be found <a href="https://open.spotify.com/use
 
 ### R1D2
 December 2, 2021 (Thursday)
+
+Today I wanted to focus more on actually coding, so I decided to start modifications to a card tutorial. Although I can build cards already, mine do not look as polished as I would like, so I am modifying these cards to something more my own and afterward I will create content using the same method. 
+
+I will edit this to show the link of the tutorial, but I'm running short on time right now. I started by coding along with the tutorial, made edits, switched most of my code back to the original, and then posted the frankenstein mix to Github. I coded for almost 4 hours just trying different combinations and trying to make it all work. On the plus side, my code worked several times, but I just didn't quite achieve the design that I want. Almost 4 hours of coding time today though!
+
+### R1D3
+December 3, 2021 (Friday)
+
+I did a little bit of the CSS on FreeCodeCamp that I have already completed on my two other Google accounts, but I wanted to attach it to the email associated with most of my accounts for better organization. I also coded for an hour on my card project. I cleaned up my code, changed some of the tag names, switched out images, and tried out several changes to the user area. My live code viewer had some difficulties, so I spent about 30 minutes troubleshooting that as well. All in all, not bad.
