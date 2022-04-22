@@ -45,4 +45,12 @@ Tonight I'm also researching the current meta tags that should be used for SEO, 
 April 21, 2022 (Thursday)
 Code Days Owed: 2
 
+Today I only did about 30 minutes of coding before falling asleep at my keyboard. I had a lot of work in the morning, but I did take some time off to check out Plural Sight's Skills Day. I know it's a potential avenue after school, but an avenue I hadn't taken into serious consideration. I don't think I have the capacity to subscribe and pursue it at this point, but it has become a potential path for after I survive next semester. I don't think I'd want to live in the theoretics of Quantum Computing everyday, but it was a good way to get some context for continuing with JS or data manipulation. 
+
+###R1D6
+April 22, 2022 (Friday)
+Code Days Owed: 2
+
+I have some branding to knock out this morning, so tonight I'm going to work on finishing up courses that I've paid for and then spend some time working on my WP update site. I'll update after, but I'm making time for my projects because I always put them off for paying work and I have the time now. Plus it's still half snow/half slush outside, so it's a good excuse to spend the weekend in.
+
 
