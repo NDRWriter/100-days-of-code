@@ -49,7 +49,6 @@ Today I only did about 30 minutes of coding before falling asleep at my keyboard
 
 ###R1D6
 April 22, 2022 (Friday)
-Code Days Owed: 2
 
 I have some branding to knock out this morning, so tonight I'm going to work on finishing up courses that I've paid for and then spend some time working on my WP update site. I'll update after, but I'm making time for my projects because I always put them off for paying work and I have the time now. Plus it's still half snow/half slush outside, so it's a good excuse to spend the weekend in.
 
@@ -58,3 +57,14 @@ April 23, 2022 (Saturday)
 I had an idea to build a parallax site that had some image manipulation to change the scroll effect perception. Initially I thought I might use it for a client, but I instead I changed the design assets a bit and I'm going to build it for my site. It's pretty involved, but it's something different and it will make a great transition into running my site from open source. It will take a lot of additional research with the changes, but I got a head start today.
 
 Instead of coding and tracking with WakaTime, I decided to start planning out this project and creating content libraries. I have been working in Adobe XD on a wireframe with the branding information entered, it has accessibility features that are at least meeting II standards, and the design is responsive and quick loading. I'm sure there will be more details as the project continues, but I'm adding project tasks to click up to stay organized.
+
+###R1D7
+April 24, 2022 (Sunday)
+
+Today I worked on the parallax idea for an hour just getting the basic structure for the HTML and CSS. I wanted to get at least an hour of actual coding time, but I'm still working in Adobe XD for the layout, so things will likely change drastically. I just want to see how close I can get to the same framework without having something to guide me. I'm hoping it will highlight some of my problem areas so I can brush up on some missing skills as well. 
+
+Today's Checklist Completed:
+- Created index, about, legal, and form pages
+- Outlined CSS sheets for features, pillars, index, about, and legal
+- Entered assets into XD
+- Determined general content layout for each section
