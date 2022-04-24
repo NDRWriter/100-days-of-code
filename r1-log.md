@@ -53,4 +53,8 @@ Code Days Owed: 2
 
 I have some branding to knock out this morning, so tonight I'm going to work on finishing up courses that I've paid for and then spend some time working on my WP update site. I'll update after, but I'm making time for my projects because I always put them off for paying work and I have the time now. Plus it's still half snow/half slush outside, so it's a good excuse to spend the weekend in.
 
+###R1D6
+April 23, 2022 (Saturday)
+I had an idea to build a parallax site that had some image manipulation to change the scroll effect perception. Initially I thought I might use it for a client, but I instead I changed the design assets a bit and I'm going to build it for my site. It's pretty involved, but it's something different and it will make a great transition into running my site from open source. It will take a lot of additional research with the changes, but I got a head start today.
 
+Instead of coding and tracking with WakaTime, I decided to start planning out this project and creating content libraries. I have been working in Adobe XD on a wireframe with the branding information entered, it has accessibility features that are at least meeting II standards, and the design is responsive and quick loading. I'm sure there will be more details as the project continues, but I'm adding project tasks to click up to stay organized.
