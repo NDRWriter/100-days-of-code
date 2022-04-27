@@ -68,3 +68,16 @@ Today's Checklist Completed:
 - Outlined CSS sheets for features, pillars, index, about, and legal
 - Entered assets into XD
 - Determined general content layout for each section
+
+##R1D8 
+April 25, 2022 (Monday)
+Today I had additional work that had to be completed, so I am going to push my day 8 to tomorrow.
+
+R1D8 Continued
+April 26, 2022 (Tuesday)
+
+It was another busy day today, but I did get my one hour of coding time in. Aside from the code, I have spent a lot of time looking into design features I like, how they can impact loading speed/SEO/performance... The goal is to find the features that I am most interested in and build the entire website, branding, everything--from scratch. Initially I planned to roll it out long before now, but finding time was more difficult than predicted.
+
+As I pull back from non-tech work, I have more time to work towards picking up new coding and design skills. I am also back in school in September, so I'm taking the summer to brush up on my CSS and JS before I begin Python and mySQL. With the additional time, I am scheduling 2 hours to my education after the kids crash out in the evenings. Sometimes it's just homework or learning a new concept, but I'm currently working on a balanced schedule that will help force me to attempt a work-life balance. 
+
+The site code I completed in my hour was a div for featured articles, adapting some of the layouts for longer articles or pieces with a lot of text, and updating navigation on every page. I changed some of the code in my scripts, and started changing soem of the class and id tags to a more reusable way. Again, nothing too exciting, but I am documenting as I go in order to publish everything on the blog when completed.
